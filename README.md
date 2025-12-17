@@ -1,4 +1,4 @@
-## Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yamada-113&show_icons=true&theme=radical)
 
 <!--
 **Yamada-113/Yamada-113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
