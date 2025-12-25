@@ -1,5 +1,8 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Yamada-113&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Yamada-113's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamada-113&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Yamada-113's GitHub Stats" />
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Yamada-113&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Yamada-113&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Yamada-113&theme=summer">
+</picture>
 
 <!--
 **Yamada-113/Yamada-113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
